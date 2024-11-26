@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "1731084656003358b8": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_kRKent": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget_homepage\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "flavored-lactase-enzyme-syrup"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_kRKent"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn_zmNXtG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Xhgr67": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review2.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_zRg8KK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review5.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_AgVWbB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review6.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_FRNrBV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review10.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Xhgr67",
+        "column_zRg8KK",
+        "column_AgVWbB",
+        "column_FRNrBV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 76,
+        "column_class": ""
+      }
+    },
+    "multicolumn_kMK9GY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7kHrMn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review4.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_rUPL9J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review12.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_jnWYBb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review11.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_D7yaqm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review7.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_7kHrMn",
+        "column_rUPL9J",
+        "column_jnWYBb",
+        "column_D7yaqm"
+      ],
+      "settings": {
+        "title": "",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 76,
+        "column_class": ""
+      }
+    },
+    "multicolumn_7PLNmy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dbenNg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review9.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_xbG83V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review8.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_wak9bM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review3.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_iVrdTd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-review1.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_dbenNg",
+        "column_xbG83V",
+        "column_wak9bM",
+        "column_iVrdTd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_alignment": "left",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 84,
+        "column_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1731084656003358b8",
+    "multicolumn_zmNXtG",
+    "multicolumn_kMK9GY",
+    "multicolumn_7PLNmy"
+  ]
+}

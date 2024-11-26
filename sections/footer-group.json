@@ -1,0 +1,80 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_DLdACp": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_NhkBye": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buy 1 Get 1 Free On 1st Order",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_CpLWhi": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up for an even sweeter deal - get your coupon code and other emails.<\/p>"
+          }
+        },
+        "email_form_LcdLgQ": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_NhkBye",
+        "paragraph_CpLWhi",
+        "email_form_LcdLgQ"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 76
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_aceeaT": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "text_qGzY7F": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "link_list_aceeaT",
+        "text_qGzY7F"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "newsletter_DLdACp",
+    "footer"
+  ]
+}

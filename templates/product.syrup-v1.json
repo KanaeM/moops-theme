@@ -1,0 +1,461 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_YwLHtR": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "none"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "icon_with_text_hRtwC3": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "star",
+            "heading_1": "",
+            "icon_2": "heart",
+            "heading_2": "30 Day Happy Gut Guarantee",
+            "icon_3": "price_tag",
+            "heading_3": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_7Jrafd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What's In It",
+            "icon": "serving_dish",
+            "content": "<p><strong>Serving size: <\/strong>4 pumps \/ 1g<br\/><strong>Servings per container:<\/strong> 60<br\/><strong>Lactase Enzyme per serving: <\/strong>10,000 FCC ALU<br\/><strong>Ingredients:<\/strong> Organic tapioca syrup, lactase enzyme, water, natural flavor, malic acid, maltodextrin, salt<br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_NReNwA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How To Use",
+            "icon": "clipboard",
+            "content": "<ul><li>Take 4 pumps with your first bite of dairy<\/li><li>Adjust your dose as needed.<br\/>Take more after 30 minutes if still consuming lactose<\/li><li>Twist to lock the pump when not in use. <\/li><li>Put it directly in your mouth, on a spoon, or on cold food<\/li><li>Put it directly on COLD food only (excessive heat degrades the enzymes). If you want to take Moops with hot food, we recommend taking it separately (directly in your mouth or on a utensil)<\/li><li>Store in a cool, dry place and use within 2 months of opening.<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_YwLHtR",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "icon_with_text_hRtwC3",
+        "description",
+        "collapsible_tab_7Jrafd",
+        "collapsible_tab_NReNwA"
+      ],
+      "custom_css": [
+        "h1 {font-size: 36px;}"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_Bjc79p": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RfRjaR": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOLD ONTO YOUR BUTTS",
+            "heading_size": "h2",
+            "design_style": "pill"
+          }
+        },
+        "icon_XDGGyj": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>F*ing Delicious<\/p>",
+            "icon_body_text": "<p>\"I would eat Moops by itself, no dairy needed\" -My Dad<\/p>",
+            "icon": "shopify:\/\/shop_images\/taste-icon.png"
+          }
+        },
+        "icon_htPfjX": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Control The Dose<\/p>",
+            "icon_body_text": "<p>Because lactose intolerance varies.<br\/>Adjust the amount you take to fit YOUR needs<\/p>",
+            "icon": "shopify:\/\/shop_images\/dosing-icon.png"
+          }
+        },
+        "icon_wGezBP": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Twist-to-lock Top<\/p>",
+            "icon_body_text": "<p>For leak-free portability<\/p>",
+            "icon": "shopify:\/\/shop_images\/lock-icon.png"
+          }
+        },
+        "icon_hVxi8B": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Not Another Pill<\/p>",
+            "icon_body_text": "<p>Need we say more?<\/p>",
+            "icon": "shopify:\/\/shop_images\/no-pills-icon.png"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RfRjaR",
+        "icon_XDGGyj",
+        "icon_htPfjX",
+        "icon_wGezBP",
+        "icon_hVxi8B"
+      ],
+      "custom_css": [
+        "h2 {color: #f6affc; margin-bottom: 20px;}",
+        ".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border: none; padding-bottom: 0 !important;}",
+        ".media > *:not(.zoom):not(.deferred-media__poster-button) {position: relative;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/moops-bottles_2019ce28-880c-4104-aeb6-3beedcf2fceb.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_8LYpJP": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kJ7Ajn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buy More, Save $$, Save Your Butt<\/p>"
+          }
+        },
+        "heading_brN7zT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Save more butts and get up to 20% off by adding more bottles to your order.",
+            "heading_size": "h1"
+          }
+        },
+        "text_EVmhwx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Only want 1? Don't worry, we send our first-timers a special coupon for a future purchase.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kJ7Ajn",
+        "heading_brN7zT",
+        "text_EVmhwx"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {color: white;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "column_class": "guarantee-cta"
+      }
+    },
+    "multicolumn_ernzQX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NTJMQJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/put-in-mouth.jpg",
+            "title": "<p>Directly In Your Mouth<\/p>",
+            "pre_heading": "",
+            "text": "<p>Hold the pump over your mouth <\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_i4EPQ8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/take-on-spoon.jpg",
+            "title": "<p>On A Spoon<\/p>",
+            "pre_heading": "",
+            "text": "<p>Great for sharing<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_zdWrKa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/take-on-food.jpg",
+            "title": "<p>On Your Food<\/p>",
+            "pre_heading": "",
+            "text": "<p>Take with the first bite - delicious on ice cream!<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_NTJMQJ",
+        "column_i4EPQ8",
+        "column_zdWrKa"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 50px;}",
+        "h2,h3 {color: white;}",
+        "img {border-radius: 50px;}"
+      ],
+      "settings": {
+        "title": "Here's How To Take Moops:",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "column_class": ""
+      }
+    },
+    "17271882857e5f823d": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_y3pUxk": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_y3pUxk"
+      ],
+      "custom_css": [],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collapsible_content_9DfaFH": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tFgRgU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does lactase enzyme work?",
+            "icon": "none",
+            "row_content": "<p>Lactase enzyme breaks down milk sugar (lactose) to be more digestible. Most of us are born with plenty of lactase enzyme in our small intestines. For some people, it starts to decrease with age, usually due to genetics. Lactase enzyme is the perfect solution for people who can’t digest lactose on their own anymore, because it lets you enjoy dairy without lower GI symptoms. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_j6jxMh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much lactase enzyme is in Moops?",
+            "icon": "none",
+            "row_content": "<p>There are 10,000 FCC Lactase Enzyme Units in a recommended dose of Moops (4 pumps).<br\/>Compare to 9,000 in Lactaid™ Fast Act and 3,000 in regular Lactaid™ pills. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DEYW4h": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you take Moops?",
+            "icon": "none",
+            "row_content": "<p>Take 4 pumps of Moops with your first bite of dairy. <br\/>It can be pumped directly in your mouth, on food, or on a utensil. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_N9X8qF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do you mean by customizable dosing?",
+            "icon": "none",
+            "row_content": "<p>Lactose intolerance is a spectrum. Its severity varies from person to person and depending on the type and quantity of food consumed. You can adjust your dose to fit your needs dependong on your sensitivy to lactose and the amnount of lactose in your meal.<\/p><p>Most people will do fine with 4 pumps, but you might find you can get by with less, or more if you are particularly sensitive.<br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6yQqG8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does one bottle last?",
+            "icon": "none",
+            "row_content": "<p>It depends on how often you eat dairy!<\/p><p>One 2oz bottle contains 60 doses at 4 pumps per dose.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wLHQQL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s the maximum dose?",
+            "icon": "none",
+            "row_content": "<p>The FDA does not specify an upper limit for lactase enzyme, and there are no known adverse side effects of taking too much, but we recommend taking no more than 24 pumps (6 doses) per day. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bRFAPe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the other ingredients?",
+            "icon": "none",
+            "row_content": "<p>The lactase enzyme is suspended in a stable tapioca syrup base, with added natural flavors (except for the unflavored version). We do not use any artificial sweeteners, artificial flavors, or mannitol. You can find the full ingredients list on the product pages. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_icY3tB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I’m allergic to dairy protein, not lactose. Will Moops work for me?",
+            "icon": "none",
+            "row_content": "<p>No, sorry! Moops contains lactase enzyme to break down lactose in dairy products so lactose intolerant people can enjoy dairy without problems because lactose intolerance is not an allergy. If you are allergic to milk protein you should avoid dairy completely.<\/p><p>If you are unsure if you are allergic or intolerant, take our quiz to find out if Moops is right for you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PC9C6J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I buy Moops?",
+            "icon": "none",
+            "row_content": "<p>We are a new brand and currently the only place to order is right here on our website. <\/p><p>For updates on when our Amazon storefront is live, sign up for our mailing list here.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6Vz4DH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I own a cafe\/pizzeria\/ice cream shop and want to offer Moops to my customers - how?",
+            "icon": "none",
+            "row_content": "<p>Omg thank you for looking out for your lactose intolerant customers! Stay tuned for our commercial size syrup bottle for providing individual dosing direclty to customers, and our chocolate syrup Moops (currently in development). In the meantime, if you would like to carry our 2oz bottles, contact us to set up a wholesale order.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tFgRgU",
+        "collapsible_row_j6jxMh",
+        "collapsible_row_DEYW4h",
+        "collapsible_row_N9X8qF",
+        "collapsible_row_6yQqG8",
+        "collapsible_row_wLHQQL",
+        "collapsible_row_bRFAPe",
+        "collapsible_row_icY3tB",
+        "collapsible_row_PC9C6J",
+        "collapsible_row_6Vz4DH"
+      ],
+      "custom_css": [
+        ".accordion {border-bottom: 2px solid #fd82ff;}",
+        ".has_image img {height: auto;}",
+        ".has_image img,.has_image .collapsible-content__media {max-width: 512px;}",
+        ".global-media-settings {border: none;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/Group292288.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 84,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_Bjc79p",
+    "related-products",
+    "rich_text_8LYpJP",
+    "multicolumn_ernzQX",
+    "17271882857e5f823d",
+    "collapsible_content_9DfaFH"
+  ]
+}

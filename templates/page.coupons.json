@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_EWT4Hq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6ehLQ8": {
+          "type": "column",
+          "settings": {
+            "title": "<p>buy2get1<\/p>",
+            "pre_heading": "",
+            "text": "<p>Buy 2 bottles and get 1 bottle free. <\/p>",
+            "link_label": "Get Coupon",
+            "link": "https:\/\/trymoops.com\/discount\/buy2get1?redirect=%2Fproducts%2Fflavored-lactase-enzyme-syrup&c=buy2get1",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_78pm87": {
+          "type": "column",
+          "settings": {
+            "title": "<p>Buy 1 Get 1<\/p>",
+            "pre_heading": "",
+            "text": "<p>Buy 1 get 1 free on your first order when you sign up for our email list. You must use the same email at checkout.<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_6ehLQ8",
+        "column_78pm87"
+      ],
+      "settings": {
+        "title": "",
+        "heading_alignment": "left",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/moops-lactase-enzyme-syrup",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "column_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_EWT4Hq"
+  ]
+}

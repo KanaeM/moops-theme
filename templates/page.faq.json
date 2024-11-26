@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_3UVLY6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wyMMPf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does lactase enzyme work?",
+            "icon": "none",
+            "row_content": "<p>Lactase enzyme breaks down milk sugar (lactose) to be more digestible. Most of us are born with plenty of lactase enzyme in our small intestines. For some people, it starts to decrease with age, usually due to genetics. Lactase enzyme is the perfect solution for people who can’t digest lactose on their own anymore, because it lets you enjoy dairy without lower GI symptoms. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pJJ68a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much lactase enzyme is in Moops?",
+            "icon": "none",
+            "row_content": "<p>There are 10,000 FCC Lactase Enzyme Units in a recommended dose of Moops (4 pumps\/1g of syrup).<br\/>Compare to 9,000 in Lactaid™ Fast Act and 3,000 in regular Lactaid™ pills. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_akgyT6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you take Moops?",
+            "icon": "none",
+            "row_content": "<p>Take 4 pumps of Moops with your first bite of dairy. <br\/>It can be pumped directly in your mouth, on a utensil, or on cold food (heat degrades the enzymes, so keep it cool!)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Lbyt8E": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do you mean by customizable dosing?",
+            "icon": "none",
+            "row_content": "<p>Lactose intolerance is a spectrum. Its severity varies from person to person and depending on the type and quantity of food consumed. You can adjust your dose to fit your needs dependong on your sensitivy to lactose and the amnount of lactose in your meal.<\/p><p>Most people will do fine with 4 pumps, but you might find you can get by with less, or more if you are particularly sensitive.<br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cq8N8a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does one bottle last?",
+            "icon": "none",
+            "row_content": "<p>It depends on how often you eat dairy!<\/p><p>One 2oz bottle contains 60 doses at 4 pumps per dose. <\/p><p>Each 4 pump dose is approximately 1g of syrup. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xEDrGE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s the maximum dose?",
+            "icon": "none",
+            "row_content": "<p>The FDA does not specify an upper limit for lactase enzyme, and there are no known adverse side effects of taking too much, but we recommend taking no more than 24 pumps (6 doses) per day. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QFQjjz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the other ingredients?",
+            "icon": "none",
+            "row_content": "<p>The lactase enzyme is suspended in a stable tapioca syrup base, with added natural flavors (except for the unflavored version). We do not use any artificial sweeteners, artificial flavors, or mannitol. You can find the full ingredients list on the product pages. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EQ4nmG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I’m allergic to dairy protein, not lactose. Will Moops work for me?",
+            "icon": "none",
+            "row_content": "<p>No, sorry! Moops contains lactase enzyme to break down lactose in dairy products so lactose intolerant people can enjoy dairy without problems because lactose intolerance is not an allergy. If you are allergic to milk protein you should avoid dairy completely.<\/p><p>If you are unsure if you are allergic or intolerant, take our quiz to find out if Moops is right for you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQy6AL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I buy Moops?",
+            "icon": "none",
+            "row_content": "<p>We are a new brand and currently the only place to order is right here on our website. <\/p><p>For updates on when our Amazon storefront is live, sign up for our mailing list here.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GxEyHA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I own a cafe\/pizzeria\/ice cream shop and want to offer Moops to my customers - how?",
+            "icon": "none",
+            "row_content": "<p>Omg thank you for looking out for your lactose intolerant customers! Stay tuned for our commercial size syrup bottle for providing individual dosing direclty to customers, and our chocolate syrup Moops (currently in development). In the meantime, if you would like to carry our 2oz bottles, contact us to set up a wholesale order.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wyMMPf",
+        "collapsible_row_pJJ68a",
+        "collapsible_row_akgyT6",
+        "collapsible_row_Lbyt8E",
+        "collapsible_row_cq8N8a",
+        "collapsible_row_xEDrGE",
+        "collapsible_row_QFQjjz",
+        "collapsible_row_EQ4nmG",
+        "collapsible_row_qQy6AL",
+        "collapsible_row_GxEyHA"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 84
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_3UVLY6"
+  ]
+}

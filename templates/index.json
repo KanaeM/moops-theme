@@ -1,0 +1,603 @@
+{
+  "sections": {
+    "multicolumn_xfhycn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8UQ7kE": {
+          "type": "column",
+          "settings": {
+            "title": "<p>The tastiest way<\/p><p>to enjoy dairy again<\/p>",
+            "pre_heading": "Lactose intolerant?",
+            "text": "",
+            "link_label": "Try Moops",
+            "link": "shopify:\/\/collections\/moops-lactase-enzyme-syrup",
+            "button_style": "button",
+            "link_the_image": false
+          }
+        },
+        "column_ijpQDX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moops-with-food_1ebb5e72-de9a-423d-b7aa-46fcf0b1cf26.jpg",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_8UQ7kE",
+        "column_ijpQDX"
+      ],
+      "custom_css": [
+        ".multicolumn {height: calc(90vh - 130px); display: flex; justify-content: center; align-items: center; overflow: hidden;}",
+        "h5 {font-family: Montserrat; font-size: 25px; font-weight: 400; margin-bottom: 20px;}",
+        "h3 {font-size: 55px; line-height: 65px; margin-bottom: 30px;}",
+        "li {display: flex; align-items: center;}",
+        "img.multicolumn-card__image {border-radius: 50px;}",
+        ".media {overflow: visible;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_alignment": "left",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "#",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 72,
+        "column_class": "hp-hero"
+      }
+    },
+    "multicolumn_kY7wiM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tddLUp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/strawberry-milkshake.png",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Strawberry Milkshake",
+            "link": "\/products\/flavored-lactase-enzyme-syrup?variant=46583198122234",
+            "button_style": "button",
+            "link_the_image": true
+          }
+        },
+        "column_WNVyDM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/salted-caramel.png",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Salted Caramel",
+            "link": "\/products\/flavored-lactase-enzyme-syrup?variant=46583198155002",
+            "button_style": "button",
+            "link_the_image": true
+          }
+        },
+        "column_7yjYce": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unflavored.png",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Unflavored",
+            "link": "\/products\/flavored-lactase-enzyme-syrup?variant=46583198220538",
+            "button_style": "button",
+            "link_the_image": true
+          }
+        },
+        "column_yA6b66": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/orange-creamsicle.png",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Orange Creamsicle",
+            "link": "\/products\/flavored-lactase-enzyme-syrup?variant=46583198187770",
+            "button_style": "button",
+            "link_the_image": true
+          }
+        },
+        "column_iKy3Vr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sweet-vanilla.png",
+            "title": "",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Sweet Vanilla",
+            "link": "\/products\/flavored-lactase-enzyme-syrup?variant=46583198089466",
+            "button_style": "button",
+            "link_the_image": true
+          }
+        },
+        "column_HynHd9": {
+          "type": "column",
+          "settings": {
+            "title": "<p>Buy 1 Get 1 50% Off<\/p>",
+            "pre_heading": "",
+            "text": "",
+            "link_label": "Get The Deal",
+            "link": "https:\/\/trymoops.com\/discount\/MOOPSBOGO?redirect=%2Fproducts%2fflavored-lactase-enzyme-syrup&c=MOOPSBOGO",
+            "button_style": "button",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_tddLUp",
+        "column_WNVyDM",
+        "column_7yjYce",
+        "column_yA6b66",
+        "column_iKy3Vr",
+        "column_HynHd9"
+      ],
+      "custom_css": [
+        "ul li:last-child .multicolumn-card.content-container {display: flex; align-items: center; justify-content: center;}"
+      ],
+      "settings": {
+        "title": "Shop Delicious Flavors",
+        "heading_alignment": "center",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 4,
+        "column_class": "colorful-product-cols"
+      }
+    },
+    "rich_text_ywtVy9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YdYtVb": {
+          "type": "heading",
+          "settings": {
+            "heading": "More 🍦🧀🥛😋 Less 💨💩🔥😳",
+            "heading_size": "h2"
+          }
+        },
+        "text_W9xLCK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Moops is a delicious lactase enzyme syrup that lets you <strong>eat more of the foods you ❤️<\/strong>.<\/p>"
+          }
+        },
+        "text_UDBkae": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy directly in your mouth or drizzled over your first bite of dairy.<\/p><p>4 pumps = 10,000 FCC Lactase Units<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YdYtVb",
+        "text_W9xLCK",
+        "text_UDBkae"
+      ],
+      "custom_css": [
+        ".rich-text__heading {font-size: 18px; font-family: Montserrat; font-weight: 600; padding-bottom: 15px; color: white;}",
+        ".rich-text__text p {font-size: 13px;}",
+        ".rich-text__text:first-of-type {padding-bottom: 15px;}",
+        ".rich-text__text:first-of-type p {font-size: 33px; font-family: Bunch; line-height: 43px; color: white;}",
+        ".rich-text__text:first-of-type p strong {color: #f6affc;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 92,
+        "padding_bottom": 84,
+        "column_class": ""
+      }
+    },
+    "image_with_text_6RT47L": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dKxMjM": {
+          "type": "heading",
+          "settings": {
+            "heading": "MOOPS TO THE RESCUE",
+            "heading_size": "h2",
+            "design_style": "pill"
+          }
+        },
+        "icon_aTNGH7": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Irresistibly Delicious<\/p>",
+            "icon_body_text": "<p>5 amazing flavors (even the unflavored one is yummy!) <\/p>",
+            "icon": "shopify:\/\/shop_images\/taste-icon.png"
+          }
+        },
+        "icon_GYiT8q": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Customizable Dosing<\/p>",
+            "icon_body_text": "<p>Because lactose intolerance varies. <\/p><p>Adjust the amount you take to fit YOUR needs<\/p>",
+            "icon": "shopify:\/\/shop_images\/dosing-icon.png"
+          }
+        },
+        "icon_cL47eR": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>Twist-to-lock pump top<\/p>",
+            "icon_body_text": "<p>For leak-free portability<\/p>",
+            "icon": "shopify:\/\/shop_images\/lock-icon.png"
+          }
+        },
+        "icon_f789g8": {
+          "type": "icon",
+          "settings": {
+            "icon_heading_text": "<p>No more pills!<\/p>",
+            "icon_body_text": "<p>Need we say more?<\/p>",
+            "icon": "shopify:\/\/shop_images\/no-pills-icon.png"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dKxMjM",
+        "icon_aTNGH7",
+        "icon_GYiT8q",
+        "icon_cL47eR",
+        "icon_f789g8"
+      ],
+      "custom_css": [
+        "h2 {color: #f6affc; margin-bottom: 20px;}",
+        ".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border: none; padding-bottom: 0 !important;}",
+        ".media > *:not(.zoom):not(.deferred-media__poster-button) {position: relative;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/moops-bottles_c4e1fd4d-c2bf-4db8-af28-fc6443bfe5e8.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 92,
+        "padding_bottom": 92
+      }
+    },
+    "multicolumn_npG33Q": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DMn4KN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/put-in-mouth.jpg",
+            "title": "<p>Directly In Your Mouth<\/p>",
+            "pre_heading": "",
+            "text": "<p>Hold the pump over your mouth <\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_HGVtTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/take-on-spoon.jpg",
+            "title": "<p>On A Spoon<\/p>",
+            "pre_heading": "",
+            "text": "<p>Great for sharing<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        },
+        "column_GD9zGY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/take-on-food.jpg",
+            "title": "<p>On Your Food<\/p>",
+            "pre_heading": "",
+            "text": "<p>Take with the first bite - delicious on ice cream!<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "arrow",
+            "link_the_image": false
+          }
+        }
+      },
+      "block_order": [
+        "column_DMn4KN",
+        "column_HGVtTy",
+        "column_GD9zGY"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 50px; color: white;}",
+        "h3 {color: white;}",
+        "img {border-radius: 50px;}"
+      ],
+      "settings": {
+        "title": "Here's How To Take Moops:",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 84,
+        "padding_bottom": 64,
+        "column_class": ""
+      }
+    },
+    "rich_text_4MAzFG": {
+      "type": "rich-text",
+      "blocks": {
+        "text_XnBV9b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>100% happy gut guarantee <\/p>"
+          }
+        },
+        "heading_yheAgB": {
+          "type": "heading",
+          "settings": {
+            "heading": "If you don’t love Moops, email us within 30 days for a full refund.",
+            "heading_size": "h1"
+          }
+        },
+        "button_LNjyfK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop The Flavors",
+            "button_link": "shopify:\/\/collections\/moops-lactase-enzyme-syrup",
+            "button_style_secondary": false,
+            "button_label_2": "Buy 2 Get 1 Free",
+            "button_link_2": "https:\/\/trymoops.com\/discount\/buy2get1?redirect=%2Fproducts%2Fflavored-lactase-enzyme-syrup&c=buy2get1",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_XnBV9b",
+        "heading_yheAgB",
+        "button_LNjyfK"
+      ],
+      "custom_css": [
+        ".rich-text {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0715\/4745\/3690\/files\/m-border.png?v=1723140741); background-size: 2000px; background-repeat: repeat-x; background-position: center bottom; padding-bottom: 150px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "column_class": "guarantee-cta"
+      }
+    },
+    "image_with_text_LrxBic": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xDtYtB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hi! We’re Jess & Marc",
+            "heading_size": "h1",
+            "design_style": "text"
+          }
+        },
+        "text_4qRd4t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re seasoned small business owners and we’re both lactose intolerant. We wanted a better way to remember to take lactase enzyme so we could enjoy our favorite foods without the sh*tty side effects.<\/p><p>Something we’d actually look forward to taking…so, not another bland pill. We set out to develop the best, most delicious lactase enzyme supplement on the market. We love taking Moops whenever we eat dairy, and we're excited to share it with you!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_rx4eTw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more about our story",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xDtYtB",
+        "text_4qRd4t",
+        "button_rx4eTw"
+      ],
+      "custom_css": [
+        ".media img {border-radius: 50px;}",
+        ".media {border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/jess-marc-bottles.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84
+      }
+    },
+    "collapsible_content_hE8QKB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_HexftL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does lactase enzyme work?",
+            "icon": "none",
+            "row_content": "<p>Lactase enzyme breaks down milk sugar (lactose) to be more digestible. Most of us are born with plenty of lactase enzyme in our small intestines. For some people, it starts to decrease with age, usually due to genetics. Lactase enzyme is the perfect solution for people who can’t digest lactose on their own anymore, because it lets you enjoy dairy without lower GI symptoms. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FExwnQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much lactase enzyme is in Moops?",
+            "icon": "none",
+            "row_content": "<p>There are 10,000 FCC Lactase Enzyme Units in a recommended dose of Moops (4 pumps\/1g of syrup).<br\/>Compare to 9,000 in Lactaid™ Fast Act and 3,000 in regular Lactaid™ pills. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rYyTzf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you take Moops?",
+            "icon": "none",
+            "row_content": "<p>Take 4 pumps (1g) of Moops with your first bite of dairy. <br\/>It can be pumped directly in your mouth, on a utensil, or on cold food (heat degrades the enzymes, so keep it cool!)<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zh6KKU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do you mean by customizable dosing?",
+            "icon": "none",
+            "row_content": "<p>Lactose intolerance is a spectrum. Its severity varies from person to person and depending on the type and quantity of food consumed. You can adjust your dose to fit your needs depending on your sensitivy to lactose and the amount of lactose in your meal.<\/p><p>Most people will do fine with 4 pumps, but you might find you can get by with less, or more if you are particularly sensitive.<br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wPqFGp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does one bottle last?",
+            "icon": "none",
+            "row_content": "<p>It depends on how often you eat dairy!<\/p><p>One 2oz bottle contains 60 doses at 4 pumps per dose.<\/p><p>Each 4 pump dose contains 1g of syrup. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CkCfdn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s the maximum dose?",
+            "icon": "none",
+            "row_content": "<p>The FDA does not specify an upper limit for lactase enzyme, and there are no known adverse side effects of taking too much, but we recommend taking no more than 24 pumps (6 doses) per day. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d4jcdc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the other ingredients?",
+            "icon": "none",
+            "row_content": "<p>The lactase enzyme is suspended in a stable tapioca syrup base, with added natural flavors (except for the unflavored version). We do not use any artificial sweeteners, artificial flavors, or mannitol. You can find the full ingredients list on the product pages. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KzUkC6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I’m allergic to dairy protein, not lactose. Will Moops work for me?",
+            "icon": "none",
+            "row_content": "<p>No, sorry! Moops contains lactase enzyme to break down lactose in dairy products so lactose intolerant people can enjoy dairy without problems because lactose intolerance is not an allergy. If you are allergic to milk protein you should avoid dairy completely.<\/p><p>If you are unsure if you are allergic or intolerant, take our quiz to find out if Moops is right for you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GEjgTp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I buy Moops?",
+            "icon": "none",
+            "row_content": "<p>We are a new brand and currently the only place to order is right here on our website. <\/p><p>For updates on when our Amazon storefront is live, sign up for our mailing list here.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EhPKGp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I own a cafe\/pizzeria\/ice cream shop and want to offer Moops to my customers - how?",
+            "icon": "none",
+            "row_content": "<p>Omg thank you for looking out for your lactose intolerant customers! Stay tuned for our commercial size syrup bottle for providing individual dosing direclty to customers, and our chocolate syrup Moops (currently in development). In the meantime, if you would like to carry our 2oz bottles, contact us to set up a wholesale order.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_HexftL",
+        "collapsible_row_FExwnQ",
+        "collapsible_row_rYyTzf",
+        "collapsible_row_zh6KKU",
+        "collapsible_row_wPqFGp",
+        "collapsible_row_CkCfdn",
+        "collapsible_row_d4jcdc",
+        "collapsible_row_KzUkC6",
+        "collapsible_row_GEjgTp",
+        "collapsible_row_EhPKGp"
+      ],
+      "custom_css": [
+        ".accordion {border-bottom: 2px solid #fd82ff;}",
+        ".has_image img {height: auto;}",
+        ".has_image img,.has_image .collapsible-content__media {max-width: 512px;}",
+        ".global-media-settings {border: none;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/Group_292288.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 84,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "multicolumn_xfhycn",
+    "multicolumn_kY7wiM",
+    "rich_text_ywtVy9",
+    "image_with_text_6RT47L",
+    "multicolumn_npG33Q",
+    "rich_text_4MAzFG",
+    "image_with_text_LrxBic",
+    "collapsible_content_hE8QKB"
+  ]
+}
